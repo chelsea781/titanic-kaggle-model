@@ -19,6 +19,6 @@ I used RandomForestClassifier models and cross-validation to improve the predict
 ### My journey:
 - This was my first Kaggle competition.
 - Learned a lot about data preprocessing and model evaluation.
-- Worked with different machine learning algorithms like Logistic Regression and Random Forest.
+- Worked with machine learning algorithms like Random Forest.
   
 Feel free to explore and provide feedback!
